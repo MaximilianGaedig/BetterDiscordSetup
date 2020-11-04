@@ -1,0 +1,21 @@
+{
+	"blacklist": [
+		"557021698801664060",
+		"152517096104919042"
+	],
+	"categorydata": [],
+	"changeLog": {
+		"version": "2.8.4"
+	},
+	"changelog": {
+		"currentversion": "2.8.1"
+	},
+	"settings": {
+		"showAnnouncement": true,
+		"showForNormal": true,
+		"showStore": true,
+		"showText": true,
+		"showVoice": true,
+		"sortNative": true
+	}
+}

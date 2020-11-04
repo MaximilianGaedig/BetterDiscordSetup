@@ -1,0 +1,28 @@
+{
+	"amounts": {
+		"maxDaysAgo": 0
+	},
+	"changeLog": {
+		"version": "1.5.0"
+	},
+	"changelog": {
+		"currentversion": "1.4.8"
+	},
+	"choices": {
+		"timestampLang": "$discord"
+	},
+	"formats": {
+		"ownFormat": "$hour:$minute:$second, $day.$month.$year"
+	},
+	"settings": {
+		"changeForChat": true,
+		"changeForEdit": true,
+		"cutSeconds": false,
+		"displayDate": true,
+		"displayTime": true,
+		"forceZeros": false,
+		"otherOrder": false,
+		"showInChat": true,
+		"showInEmbed": true
+	}
+}
